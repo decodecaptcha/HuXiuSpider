@@ -159,7 +159,7 @@ if __name__ == '__main__':
 
     # token
     # 付费用户获取艾登科技的授权token
-    token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoidGVtcF8yMyIsInN0aW1lIjoiMjAyMy0wOC0xOSAwNTo1NzowMiJ9.vcxDnkmLedktJp842Os9BER1GWuICt6l3eSmMMOqUkE"
+    token = "eyJ0********************UkE"
 
     # proxy
     # 代理格式说明:
