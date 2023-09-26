@@ -63,7 +63,7 @@ logger.debug(r"""
 def huxiu(captcha_id, proxy, token):
     """ GeetestCaptchaBreak 虎嗅网登录案例 """
     # 请求1, 艾登科技的 API
-    api_url = "http://42.194.245.28:8001/gtcap_api"
+    api_url = "http://x.x.x.x:8001/gtcap_api"
     headers = {
         "Connection": "close",
         "Content-Type": "application/json"
