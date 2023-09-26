@@ -10,7 +10,16 @@ api 地址
 
 aidencaptcha@gmail.com
 
-......
+
+# 更新说明
+2023-09-26: 上线 GeetestCaptchaBreak 虎嗅网登录/注册案例
+
+效果图：
+
+![image](https://github.com/aidencaptcha/HuXiuSpider/blob/main/examples/screenshots.gif)
+
+
+
 
 虎嗅网--登录/注册 captcha_id: aa9397e899d4664d4fd208697cfa9fa8
 
@@ -19,12 +28,10 @@ aidencaptcha@gmail.com
 斗鱼直播 gt: 34bb65ac417eea03e06385dc5740f593 
 
 中国东方航空 gt: 7e57ce40a0f00afa6eed611ff23fd063
+...
 
-......
+全部通用
 
-通杀任何 captcha_id 
-
-通杀 QQ 第三方或自营产品
 
 
 
