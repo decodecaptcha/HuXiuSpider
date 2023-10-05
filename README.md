@@ -30,7 +30,7 @@ aidencaptcha@gmail.com
 中国东方航空 gt: 7e57ce40a0f00afa6eed611ff23fd063
 ...
 
-全部通用
+captcha_id, gt全部通用
 
 
 
