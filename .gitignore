@@ -2,3 +2,4 @@ __pycache__/
 .vscode/
 captcha/*.png
 *.png
+_huxiu.py
